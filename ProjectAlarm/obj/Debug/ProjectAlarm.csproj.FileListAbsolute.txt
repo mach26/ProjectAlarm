@@ -1,0 +1,14 @@
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\bin\Debug\ProjectAlarm.exe.config
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\bin\Debug\ProjectAlarm.exe
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\bin\Debug\ProjectAlarm.pdb
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.csproj.ResolveComReference.cache
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.Form1.resources
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.Properties.Resources.resources
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.csproj.GenerateResource.cache
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.exe
+C:\Users\Chethan\Desktop\Visual Studio 2017\ProjectAlarm\ProjectAlarm\obj\Debug\ProjectAlarm.pdb
